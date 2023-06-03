@@ -1,0 +1,3 @@
+このサーバーの /flag にアクセスする権限がありません。
+
+https://forbidden.beginners.seccon.games

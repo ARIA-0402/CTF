@@ -1,0 +1,5 @@
+oauth を使用すると安全です。
+
+クライアント: https://oooauth.beginners.seccon.games:3000
+
+認証サーバー: https://oooauth.beginners.seccon.games:3001

@@ -1,0 +1,3 @@
+あなたは正しい選択をすることができますか？
+
+nc choice.beginners.seccon.games 1336

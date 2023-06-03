@@ -1,0 +1,3 @@
+たぶんpolyglotを使えるエディタを開発したよ！
+
+nc polyglot4b.beginners.seccon.games 31416

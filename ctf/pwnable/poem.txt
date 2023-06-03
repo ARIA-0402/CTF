@@ -1,0 +1,3 @@
+ポエムを書きました！
+
+nc poem.beginners.seccon.games 9000

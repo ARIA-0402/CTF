@@ -1,0 +1,3 @@
+スタックやレジスタの状態を想像しながらやってみよう
+
+nc elementary-rop.beginners.seccon.games 9003

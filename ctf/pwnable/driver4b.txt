@@ -1,0 +1,5 @@
+これは、Linux カーネル ドライバーのプログラミングと活用についての紹介です。
+
+Linuxカーネルプログラミングとエクスプロイトへの入門です。
+
+nc driver4b.beginners.seccon.games 9004

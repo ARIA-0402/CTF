@@ -1,0 +1,4 @@
+レッツクッキング！
+
+nc cooking.beginners.seccon.games 1337
+

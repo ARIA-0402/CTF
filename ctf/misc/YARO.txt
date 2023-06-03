@@ -1,0 +1,7 @@
+サーバーにマルウェアが混入している可能性がありますので、あなたの完璧なシグネチャで探してください
+
+nc yaro.beginners.seccon.games 5003
+
+バックアップ
+
+nc yaro-2.beginners.seccon.games 5003

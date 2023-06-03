@@ -1,0 +1,3 @@
+より美しいpolyglotを使えるエディタを開発したよ！ やっぱりpolyglotは簡単にできる？
+
+nc polyglot4b2.beginners.seccon.games 31417

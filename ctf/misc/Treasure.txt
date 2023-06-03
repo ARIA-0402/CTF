@@ -1,0 +1,4 @@
+迷って悩んでしまいました！探すのを考えてくれませんか？
+
+nc treasure.beginners.seccon.games 13778
+
